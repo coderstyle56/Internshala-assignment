@@ -19,7 +19,7 @@ A responsive internship search page clone inspired by Internshala, built with Ne
 - Tailwind CSS
 
 ## Live Demo
-https://your-vercel-link.vercel.app
+https://internshala-assignment-kappa.vercel.app/
 
 ## Run Locally
 ```bash
